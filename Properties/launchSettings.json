@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "odin2txt": {
+      "commandName": "Project",
+      "commandLineArgs": "\"D:\\devl\\zx\\CodingTutorials\\15\\main.odn\""
+    }
+  }
+}
